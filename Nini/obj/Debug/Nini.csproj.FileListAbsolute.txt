@@ -1,0 +1,5 @@
+E:\c#\Communication\Bin\DotNet\1.0\Debug\Nini.dll
+E:\c#\Communication\Bin\DotNet\1.0\Debug\Nini.pdb
+E:\c#\Communication\Nini\obj\Debug\Nini.csproj.CoreCompileInputs.cache
+E:\c#\Communication\Nini\obj\Debug\Nini.dll
+E:\c#\Communication\Nini\obj\Debug\Nini.pdb

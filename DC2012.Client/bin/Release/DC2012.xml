@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DC2012</name>
+    </assembly>
+    <members>
+        <member name="T:DC.DCLogger">
+            <summary>
+            1 Trace - 最常见的记录信息，一般用于普通输出
+            2 Debug - 同样是记录信息，不过出现的频率要比Trace少一些，一般用来调试程序
+            3 Info - 信息类型的消息
+            4 Warn - 警告信息，一般用于比较重要的场合
+            5 Error - 错误信息
+            6 Fatal - 致命异常信息。一般来讲，发生致命异常之后程序将无法继续执行。
+            </summary>
+        </member>
+        <!-- 对于成员“M:DC.DCUtil.ParaStrToDic(System.String)”忽略有格式错误的 XML 注释 -->
+        <member name="M:DC.Socket_NanoMsg.IndexOf(System.Byte[],System.Byte[])">
+            <summary>
+            报告指定的 System.Byte[] 在此实例中的第一个匹配项的索引。
+            </summary>
+            <param name="srcBytes">被执行查找的 System.Byte[]。</param>
+            <param name="searchBytes">要查找的 System.Byte[]。</param>
+            <returns>如果找到该字节数组，则为 searchBytes 的索引位置；如果未找到该字节数组，则为 -1。如果 searchBytes 为 null 或者长度为0，则返回值为 -1。</returns>
+        </member>
+    </members>
+</doc>
